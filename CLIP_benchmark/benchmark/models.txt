@@ -1,0 +1,1 @@
+ViT-B-32-lora,/data1/yw/clip_distill/save_ckpts/ViT-B-32-lora_Adv_Distill_t1_vitb-lora-eps3/ckpts/final.pt
