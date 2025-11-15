@@ -1,0 +1,1 @@
+python -m CLIP_eval.clip_robustbench --clip_model_name ViT-B-32 --pretrained ../save_ckpts/ViT-B-32_Adv_Distill/ckpts/final.pt --dataset imagenet --imagenet_root /data1/winycg/dataset/ImageNet/  --wandb False --norm linf --eps 2
